@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Selam!;+Keyifli+Okumalar:)&center=true&size=25">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Keyifli+Okumalar:)&center=true&size=25">
   </a>
   
 ![Mobil Uygulamaların Güvenlik Risk Seviyelerinin Karşılaştırılması Projesi](https://user-images.githubusercontent.com/85439997/182604344-7371f214-eaef-4b95-8188-124487747c27.png)
